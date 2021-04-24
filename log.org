@@ -1,0 +1,9 @@
+#+TITLE: 100 Days of Code Log
+#+AUTHOR: Dhananjay
+
+* Day 1: 2021-04-24 Sat
+**Today's Progress*:* Learing Rust - Arrays, Vectors, Slices and Strings
+
+**Thoughts:** Arr, Vec and Slices are similar to ~list~ in python but Strings are very tricky.
+
+**Link to work:** Rust Fundamentals from Pluralsight. Notes are in my [[https://github.com/dhananjaylatkar/rust-tutorial/blob/main/notes.org][rust-tuorial]] repo
