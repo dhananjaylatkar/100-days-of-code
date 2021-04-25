@@ -2,8 +2,20 @@
 #+AUTHOR: Dhananjay
 
 * Day 1: 2021-04-24 Sat
-**Today's Progress*:* Learing Rust - Arrays, Vectors, Slices and Strings
+*Today's Progress:* Learning Rust - Arrays, Vectors, Slices and Strings
 
-**Thoughts:** Arr, Vec and Slices are similar to ~list~ in python but Strings are very tricky.
+*Thoughts:* Arr, Vec and Slices are similar to ~list~ in python but, Strings are very tricky.
 
-**Link to work:** Rust Fundamentals from Pluralsight. Notes are in my [[https://github.com/dhananjaylatkar/rust-tutorial/blob/main/notes.org][rust-tuorial]] repo
+*Link to work:* Rust Fundamentals from Pluralsight. Notes are in my [[https://github.com/dhananjaylatkar/rust-tutorial][rust-tuorial]] repo
+
+* Day 2: 2021-04-25 Sun
+*Today's Progress:* Learning Rust - Tuples, Pattern matching, Generics, Functions, Methods and Closures
+
+*Thoughts:*
+1. Getting val from tuple felt odd (~t.0~).
+2. Returning from fuc is kinda confusing (not writing ~return~ and ~;~).
+3. Closures are like ~arrow~ func from ~js~
+
+*Link to work:*
+1. Rust Fundamentals from Pluralsight.
+2. Notes are in my [[https://github.com/dhananjaylatkar/rust-tutorial][rust-tuorial]] repo
