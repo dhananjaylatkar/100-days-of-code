@@ -6,7 +6,7 @@
 
 *Thoughts:* Arr, Vec and Slices are similar to ~list~ in python but, Strings are very tricky.
 
-*Link to work:* Rust Fundamentals from Pluralsight. Notes are in my [[https://github.com/dhananjaylatkar/rust-tutorial][rust-tuorial]] repo
+*Link to work:* Rust Fundamentals from Pluralsight. Notes are in my [[https://github.com/dhananjaylatkar/learning-rust][learining-rust]] repo
 
 * Day 2: 2021-04-25 Sun
 *Today's Progress:* Learning Rust - Tuples, Pattern matching, Generics, Functions, Methods and Closures
@@ -18,7 +18,7 @@
 
 *Link to work:*
 1. Rust Fundamentals from Pluralsight.
-2. Notes are in my [[https://github.com/dhananjaylatkar/rust-tutorial][rust-tuorial]] repo
+2. Notes are in my [[https://github.com/dhananjaylatkar/learning-rust][learining-rust]] repo
 
 * Day 3: 2021-04-26 Mon
 *Today's Progress:* Learning Rust - HOF, Traits and Lifetime (Ownership and Borrowing)
@@ -29,4 +29,17 @@
 
 *Link to work:*
 1. Rust Fundamentals from Pluralsight.
-2. Notes are in my [[https://github.com/dhananjaylatkar/rust-tutorial][rust-tuorial]] repo
+2. Notes are in my [[https://github.com/dhananjaylatkar/learning-rust][learining-rust]] repo
+
+* Day 4: 2021-04-27 Tue
+*Today's Progress:*
+1. Learning Rust - Crates, Building Modules, Testing and documentation.
+2. Started rust-koans (Completed array part).
+
+*Thoughts:*
+1. Testing and documentation is something new for me.
+2. Koans are very good way to learn/practice new language.
+
+*Link to work:*
+1. Rust Fundamentals from Pluralsight.
+2. [[https://github.com/crazymykl/rust-koans][rust-koans]] can be found here.

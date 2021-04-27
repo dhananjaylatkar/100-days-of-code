@@ -7,3 +7,5 @@
 ## Started on 24 Apr 2021
 * *Day 1:* Rust Fundamentals
 * *Day 2:* Rust Fundamentals (cont.)
+* *Day 3:* Rust Fundamentals (cont.)
+* *Day 4:* Rust Fundamentals and Rust Koans.
