@@ -9,3 +9,4 @@
 * *Day 2:* Rust Fundamentals (cont.)
 * *Day 3:* Rust Fundamentals (cont.)
 * *Day 4:* Rust Fundamentals and Rust Koans.
+* *Day 5:* Rust Koans (Ineger and Vector).

@@ -43,3 +43,13 @@
 *Link to work:*
 1. Rust Fundamentals from Pluralsight.
 2. [[https://github.com/crazymykl/rust-koans][rust-koans]] can be found here.
+
+* Day 4: 2021-04-28 Wed
+*Today's Progress:*
+1. Rust koans integer and vector.
+
+*Thoughts:*
+1. Got to know lots of vector functions.
+
+*Link to work:*
+1. [[https://github.com/crazymykl/rust-koans][rust-koans]] can be found here.
