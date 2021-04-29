@@ -44,7 +44,7 @@
 1. Rust Fundamentals from Pluralsight.
 2. [[https://github.com/crazymykl/rust-koans][rust-koans]] can be found here.
 
-* Day 4: 2021-04-28 Wed
+* Day 5: 2021-04-28 Wed
 *Today's Progress:*
 1. Rust koans integer and vector.
 
@@ -53,3 +53,18 @@
 
 *Link to work:*
 1. [[https://github.com/crazymykl/rust-koans][rust-koans]] can be found here.
+
+* Day 6: 2021-04-29 Thu
+*Today's Progress:*
+1. Built a guessing_game by following Rust book.
+2. Read Chapter 4 of Rust book - Understanding Ownership.
+3. Started Ch. 12 CLI program ~minigrep~.
+
+*Thoughts:*
+1. Building guessing_game provide more insights in rust basics.
+2. Ch. 4 helped me understand Owenership in more detail.
+3. Very excited for ~minigrep~ program.
+
+*Link to work:*
+1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/guessing_game][guessing_game]]
+2. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]
