@@ -68,3 +68,17 @@
 *Link to work:*
 1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/guessing_game][guessing_game]]
 2. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]
+
+* Day 7: 2021-04-30 Fri
+*Today's Progress:*
+1. Continued Ch.12 from The Rust Book CLI program - ~minigrep~.
+   - Reading file and printing
+   - Error handling
+   - Modular coding
+
+*Thoughts:*
+1. It's a good idea to segregate functions for each task and call them in ~main()~.
+2. Error handling is very prominent in Rust.
+
+*Link to work:*
+1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]

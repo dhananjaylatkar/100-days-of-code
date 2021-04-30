@@ -11,3 +11,4 @@
 * *Day 4:* Rust Fundamentals and Rust Koans.
 * *Day 5:* Rust Koans (Ineger and Vector).
 * *Day 6:* Rust - `guessing_game` and `minigrep`
+* *Day 7:* Rust - `minigrep` (cont.)
