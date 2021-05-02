@@ -82,3 +82,27 @@
 
 *Link to work:*
 1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]
+
+* Day 8: 2021-02-01 Sat
+*Today's Progress:*
+1. Ch 10. Generic Types, Traits, and Lifetimes of The Rust Book
+
+*Thoughts:*
+1. Got to know more about thesee topics
+
+*Link to work:*
+1. [[https://doc.rust-lang.org/book/ch10-00-generics.html][Ch 10]]
+
+* Day 9: 2021-05-02 Sun
+*Today's Progress:*
+1. Completed Ch.12 from The Rust Book CLI program - ~minigrep~.
+   - searching in String
+   - case-insensitive searching
+   - using env variables
+   - Added CLI param for case-insensitive search
+
+*Thoughts:*
+1. Learned more String methods and how to use env environments in program.
+
+*Link to work:*
+1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]
