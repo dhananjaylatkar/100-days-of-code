@@ -14,3 +14,4 @@
 * *Day 7:* [Rust - `minigrep` (cont.)](log.org#day-7-2021-04-30-fri)
 * *Day 8:* [Rust - Ch 10. Generic Types, Traits, and Lifetimes of The Rust Book](log.org#day-8-2021-02-01-sat)
 * *Day 9:* [Rust - `minigrep` finished](log.org#day-9-2021-05-02-sun)
+* *Day 10:* [Rust - Ch. 13. Functional Language Features: Iterators and Closures](log.org#day-10-2021-05-03-mon)

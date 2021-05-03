@@ -106,3 +106,16 @@
 
 *Link to work:*
 1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]
+
+* Day 10: 2021-05-03 Mon
+*Today's Progress:*
+1. Completed Ch.13 from The Rust Book - Functional Language Features: Iterators and Closures
+   - use case of Closures is more clear now
+   - updated ~minigrep~ to use iterators
+
+*Thoughts:*
+1. Iterators and Closures are used frequently and this chapter provides very good explanation.
+
+*Link to work:*
+1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]
+2. Closures example - [[https://github.com/dhananjaylatkar/learning-rust/tree/main/workout-app][workout-app]]
