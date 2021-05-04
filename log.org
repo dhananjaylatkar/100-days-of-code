@@ -119,3 +119,19 @@
 *Link to work:*
 1. [[https://github.com/dhananjaylatkar/learning-rust/tree/main/minigrep][minigrep]]
 2. Closures example - [[https://github.com/dhananjaylatkar/learning-rust/tree/main/workout-app][workout-app]]
+
+* Day 11: 2021-05-04 Tue
+*Today's Progress:*
+1. Read Ch.14 from The Rust Book - More about Cargo and Crates.io
+   - Documentation
+   - Publishing crates
+2. Started Ch 15 from The Rust Book - Smart Pointers
+   - ~Box<T>~
+   - Cons list
+
+*Thoughts:*
+1. Cons list is new thing that I learned.
+
+*Link to work:*
+1. [[https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html][Ch. 14]]
+2. [[https://doc.rust-lang.org/book/ch15-01-box.html][Ch. 15.1]]
