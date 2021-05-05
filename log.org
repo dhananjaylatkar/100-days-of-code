@@ -125,7 +125,7 @@
 1. Read Ch.14 from The Rust Book - More about Cargo and Crates.io
    - Documentation
    - Publishing crates
-2. Started Ch 15 from The Rust Book - Smart Pointers
+2. Started Ch.15 from The Rust Book - Smart Pointers
    - ~Box<T>~
    - Cons list
 
@@ -135,3 +135,17 @@
 *Link to work:*
 1. [[https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html][Ch. 14]]
 2. [[https://doc.rust-lang.org/book/ch15-01-box.html][Ch. 15.1]]
+
+* Day 12: 2021-05-05 Wed
+*Today's Progress:*
+1. Cont. Ch.15 from the Rust book - Smart Pointers
+   - dereference operator, ~*~
+   - ~Drop~ Trait
+   - ~Rc<T>~, the Reference Counted Smart Pointer
+   - ~RefCell<T>~ and the Interior Mutability Pattern
+
+*Thoughts:*
+1. Now more confortable with Pointers
+
+*Link to work:*
+1. [[https://doc.rust-lang.org/book/ch15-00-smart-pointers.html][Ch. 15]]

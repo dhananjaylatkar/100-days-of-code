@@ -16,3 +16,4 @@
 * *Day 9:* [Rust - `minigrep` finished](log.org#day-9-2021-05-02-sun)
 * *Day 10:* [Rust - Ch. 13. Functional Language Features: Iterators and Closures](log.org#day-10-2021-05-03-mon)
 * *Day 11:* [Rust - Ch. 14 and Ch. 15](log.org#day-11-2021-05-04-tue)
+* *Day 12:* [Rust - Ch. 15 Smart Pointers (Cont.)](log.org#day-11-2021-05-05-wed)
