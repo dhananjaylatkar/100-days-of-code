@@ -149,3 +149,15 @@
 
 *Link to work:*
 1. [[https://doc.rust-lang.org/book/ch15-00-smart-pointers.html][Ch. 15]]
+
+* Day 13: 2021-05-06 Thu
+*Today's Progress:*
+1. Ch.15 from the Rust book - Smart Pointers
+2. Ch.16 from the Rust book - Fearless Concurrency
+   - Learned about threads, channels and mutex.
+
+*Thoughts:*
+
+*Link to work:*
+1. [[https://doc.rust-lang.org/book/ch15-00-smart-pointers.html][Ch. 15]]
+2. [[https://doc.rust-lang.org/book/ch16-00-concurrency.html][Ch. 16]]
