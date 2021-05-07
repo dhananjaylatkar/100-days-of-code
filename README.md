@@ -18,3 +18,4 @@
 * *Day 11:* [Rust - Ch. 14 and Ch. 15](log.org#day-11-2021-05-04-tue)
 * *Day 12:* [Rust - Ch. 15 Smart Pointers (Cont.)](log.org#day-11-2021-05-05-wed)
 * *Day 13:* [Rust - Ch. 15 and Ch. 16](log.org#day-11-2021-05-06-thu)
+* *Day 14:* [Rust - Codewars](log.org#day-11-2021-05-07-fri)

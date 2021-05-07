@@ -161,3 +161,16 @@
 *Link to work:*
 1. [[https://doc.rust-lang.org/book/ch15-00-smart-pointers.html][Ch. 15]]
 2. [[https://doc.rust-lang.org/book/ch16-00-concurrency.html][Ch. 16]]
+
+* Day 14: 2021-05-07 Fri
+*Today's Progress:*
+1. Solved 3 Katas in Rust on codewars
+   - Valid Braces
+   - Sum of Digits / Digital Root
+   - IQ Test
+
+*Thoughts:*
+1. It gave me hands on experience of Rust.
+
+*Link to work:*
+1. [[https://github.com/dhananjaylatkar/codewars][Codewars repo]]
